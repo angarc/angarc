@@ -9,8 +9,3 @@ Despite being a steadfast old school Rails enthusiast, I'm excited for the new d
 <a href="https://www.linkedin.com/in/angelgarcia0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angarc)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angarc)](https://github.com/anuraghazra/github-readme-stats)
-  
-
